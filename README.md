@@ -1,1 +1,1 @@
-Exercicios do dart
+Exercicios do dart, todos localizados na pasta bin
